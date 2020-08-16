@@ -2,6 +2,6 @@
 
 My name is Celal Tok, I'm working as IOS developer and also interested in Flutter.
 
-[![Celal's github stats](https://github-readme-stats.vercel.app/api?username=mctok1903)](https://github.com/anuraghazra/github-readme-stats)
+![Celal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mctok1903&show_icons=true)
 
 <br />
